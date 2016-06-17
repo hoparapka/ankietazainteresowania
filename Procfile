@@ -1,0 +1,1 @@
+web: gunicorn <glowna>:app --log-file -
