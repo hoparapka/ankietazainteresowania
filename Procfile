@@ -1,1 +1,1 @@
-web: gunicorn <glowna.py>:app --log-file -
+web: gunicorn <glowna>:app --log-file -
